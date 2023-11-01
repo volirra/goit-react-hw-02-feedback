@@ -5,12 +5,12 @@
   padding: 0.8em 1em calc(0.8em + 3px);
   border-radius: 3px;
   background: rgb(64, 199, 129);
-  box-shadow: 0 -3px rgb(153, 243, 202) inset;
+  box-shadow: 0 -3px rgb(235, 85, 200) inset;
   transition: 0.2s;
 }
 
 .btn:hover {
-  background: rgb(153, 243, 202);
+  background: rgb(235, 85, 200);
 }
 
 .btn:active {
