@@ -5,7 +5,7 @@ import FeedbackOptions from 'components/FeedbackOptions/FeedbackOptions';
 import Notification from 'components/Notification/Notification';
 import s from 'components/App/App.module.css';
 
-export default class App extends Component {
+export class App extends Component  {
   state = {
     good: 0,
     neutral: 0,
